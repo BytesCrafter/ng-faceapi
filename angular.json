@@ -29,7 +29,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/face-api.min.js"
+            ]
           },
           "configurations": {
             "production": {
